@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../General Doc/Sheridan/Semester 4/Mob Web Dev"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "VSCode"
+	}
+}
